@@ -1,8 +1,0 @@
-hello1
-hello2
-
-develop code
-
-main
-
-stash2
